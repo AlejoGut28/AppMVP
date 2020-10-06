@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrudAppMVP</string>
+    <string name="save">Agregar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="update">Update</string>
+</resources>
